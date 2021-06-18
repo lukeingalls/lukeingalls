@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**lukeingalls/lukeingalls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 I’m currently working at [Kapwing](https://www.kapwing.com/)
+- 💭 I'm interested in web dev and frequently make all sorts of projects.
+- 🖥 Trying to become a programming [YouTuber](https://www.youtube.com/channel/UC_Twe1HJcC-NYO0Kks2p0hA)
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/luke-ingalls/">
+
+![The languages I use](https://raw.githubusercontent.com/lukeingalls/github-stats/master/generated/languages.svg)
+![My contribution history](https://raw.githubusercontent.com/lukeingalls/github-stats/master/generated/overview.svg)
+</a>
+
+</div>
+
+These figures were made using [this repo](https://github.com/jstrieb/github-stats).
