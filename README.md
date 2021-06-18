@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 💼 I’m currently working at [Kapwing](https://www.kapwing.com/)
 - 💭 I'm interested in web dev and frequently make all sorts of projects.
 - 🖥 Trying to become a programming [YouTuber](https://www.youtube.com/channel/UC_Twe1HJcC-NYO0Kks2p0hA)
