@@ -2,7 +2,7 @@
 
 - 💼 I’m currently working at [Kapwing](https://www.kapwing.com/)
 - 💭 I'm interested in web dev and frequently make all sorts of projects.
-- 🖥 Trying to become a programming [YouTuber](https://www.youtube.com/channel/UC_Twe1HJcC-NYO0Kks2p0hA)
+- ~~🖥 Trying to become a programming [YouTuber](https://www.youtube.com/channel/UC_Twe1HJcC-NYO0Kks2p0hA)~~
 
 <div align="center">
 
